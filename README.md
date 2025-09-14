@@ -7,7 +7,7 @@
   
 
 
-### Glad to see you here!:octocat:
+### Glad to see you here! :octocat:
 I come from the field of mechanics and I transitioned to the field of data in search of new challenges. My goal is constant professional growth, exploring and applying new technologies, as well as perfecting my skills in familiar tools. <br>
 My qualities to highlight are my performance, my adaptability to new scenarios and my proactivity to implement improvements.
 In the data realm, my background lies in Python, SQL, Power BI, Streamlit, GCP and Airflow. I am proficient in relational databases and also have knowledge of non-relational databases and Big Data technologies. All these qualities allow me to face challenges with confidence.  
