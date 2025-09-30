@@ -67,11 +67,11 @@ In the data realm, my background lies in Python, SQL, Power BI, Streamlit, GCP a
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Superior-Mauro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sup-Mauro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superior-Mauro&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sup-Mauro&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -80,7 +80,7 @@ In the data realm, my background lies in Python, SQL, Power BI, Streamlit, GCP a
 
 
 ### Get in Touch with me 📬:  
-<a href="https://github.com/Superior-Mauro" target="_blank">
+<a href="https://github.com/Sup-Mauro" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/mauro-alexander-pimentel-azurin" target="_blank">
